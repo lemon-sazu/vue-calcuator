@@ -1,0 +1,6 @@
+{
+  "appId": "com.mynulhasan.calculator",
+  "appName": "Calculator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
